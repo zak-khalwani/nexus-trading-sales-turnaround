@@ -16,7 +16,7 @@ For this project, all data was combined and transformed using Power Query Editor
 
 The project is built on a **Star Schema**, the industry best-practice for analytical data modeling. This structure provides optimal query performance, simplicity, and scalability. It features a central fact table (`Sales`) linked to several descriptive dimension tables.
 
-![Data Model Diagram](../assets/data_model.png)
+![Data Model Diagram](../assets/data%20model.png)
 *(Note: The `../` in the path allows the image in the parent `assets` folder to be viewed from the `docs` folder on GitHub)*
 
 ### Table Descriptions
