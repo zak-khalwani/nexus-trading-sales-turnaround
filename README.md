@@ -59,7 +59,7 @@ The dashboard's intuitive front-end is powered by a robust and optimized back-en
 ### Data Modeling: The Star Schema
 The data model utilizes a best-practice **Star Schema**. This design, featuring a central `Sales` fact table connected to `Dates`, `Products`, `Regions`, and `Customers` dimension tables, is the gold standard for analytics. It ensures fast performance, scalability, and ease of use when creating complex measures.
 
-![Data Model](assets/data_model.png)
+![Data Model](assets/data%20model.png)
 
 ### Analytical Power: DAX Measures
 The core business logic is encapsulated in DAX (Data Analysis Expressions). Key measures like `Total Sales`, `Profit Margin`, and Year-over-Year calculations (`% Sales Growth`) were created to provide the rich insights seen on the dashboard.
@@ -71,6 +71,7 @@ The core business logic is encapsulated in DAX (Data Analysis Expressions). Key 
 ## 3. Repository Structure
 The repository is organized for clarity and ease of use.
 
+<pre>
 .
 ├── assets/
 │ ├── dashboard_demo.gif
@@ -82,6 +83,7 @@ The repository is organized for clarity and ease of use.
 │ └── 03_DAX_Measures.md
 ├── .gitignore
 └── README.md
+</pre>
 
 ---
 
