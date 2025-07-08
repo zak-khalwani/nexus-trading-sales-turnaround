@@ -81,7 +81,6 @@ The repository is organized for clarity and ease of use.
 │ ├── 01_Business_Context.md
 │ ├── 02_Data_Model_and_Sources.md
 │ └── 03_DAX_Measures.md
-├── .gitignore
 └── README.md
 </pre>
 
@@ -89,6 +88,6 @@ The repository is organized for clarity and ease of use.
 
 ## 4. How to Explore This Project
 1.  **Interact with the Live Dashboard:**
-    *   Click the "Live Dashboard" badge at the top of this page or go directly to: [https://tinyurl.com/ywmuyhsc](https://tinyurl.com/ywmuyhsc)
+    *   Click the "Live Dashboard" badge at the top of this page or go directly to: [Live Dashboard Demo](https://tinyurl.com/ywmuyhsc)
 2.  **Review the Documentation:**
     *   For a deeper understanding of the business logic and technical implementation, review the detailed markdown files in the `docs/` folder.
